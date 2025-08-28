@@ -37,7 +37,8 @@ body {
 
 .loading-content {
     text-align: center;
-    color: white;
+    color: black;
+    font-family: 'Inter', sans-serif;
 }
 
 .loading-text {
